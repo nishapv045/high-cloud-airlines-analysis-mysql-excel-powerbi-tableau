@@ -1,8 +1,7 @@
 # High Cloud Airlines Overview 
 High Cloud Airlines aims to provide exceptional travel experience while prioritizing sustainability and innovation.
 
-Customer satisfaction by offering personalize•	This KPI analyzes Load Factor percentage on a yearly, Quarterly, Monthly basis Our Analysis A high load factor indicates a preferred airline with most seats sold.
-
+Customer satisfaction by offering personalize services, including flexible booking options.
 
 # List of KPI’s
 •	This KPI analyzes Load Factor percentage on a yearly, Quarterly, Monthly basis Our Analysis A high load factor indicates a preferred airline with most seats sold.
@@ -28,6 +27,7 @@ Tools: MySQL, Excel, Tableau and Power BI
 
 # Tableau Dashboard
 ![Tableau](https://github.com/user-attachments/assets/a2908b16-8747-41d8-b726-44b41c102d51)
+
 
 # Nisha P V
 nishapvkld@gmail.com 
